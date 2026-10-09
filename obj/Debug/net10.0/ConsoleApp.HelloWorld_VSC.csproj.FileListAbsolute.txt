@@ -1,0 +1,14 @@
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\bin\Debug\net10.0\ConsoleApp.HelloWorld_VSC.exe
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\bin\Debug\net10.0\ConsoleApp.HelloWorld_VSC.deps.json
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\bin\Debug\net10.0\ConsoleApp.HelloWorld_VSC.runtimeconfig.json
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\bin\Debug\net10.0\ConsoleApp.HelloWorld_VSC.dll
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\bin\Debug\net10.0\ConsoleApp.HelloWorld_VSC.pdb
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\ConsoleApp.HelloWorld_VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\ConsoleApp.HelloWorld_VSC.AssemblyInfoInputs.cache
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\ConsoleApp.HelloWorld_VSC.AssemblyInfo.cs
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\ConsoleApp.HelloWorld_VSC.csproj.CoreCompileInputs.cache
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\ConsoleApp.HelloWorld_VSC.dll
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\refint\ConsoleApp.HelloWorld_VSC.dll
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\ConsoleApp.HelloWorld_VSC.pdb
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\ConsoleApp.HelloWorld_VSC.genruntimeconfig.cache
+C:\Kishore\Learn\.NET\C# Console and Windows Forms Development_Entity Framework\Practice\ConsoleApp.HelloWorld_VSC\obj\Debug\net10.0\ref\ConsoleApp.HelloWorld_VSC.dll
